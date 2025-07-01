@@ -1,0 +1,16 @@
+h3 {
+  color: blue;
+  text-align: center;
+}
+p {
+  text-align: right;
+}
+#ordered {
+  color: aqua;
+}
+.unordered {
+  width: 50%;
+  height: 5rem;
+  color: brown;
+  align-content: baseline;
+}
